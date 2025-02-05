@@ -1,5 +1,4 @@
 # Cost of capital
-Repository to host the results processing scripts and modelling software of the CoC analysis.
 Natasha Frilingou<sup>1</sup>, Dirk-Jan Van de Ven<sup>2</sup>, Jon Sampedro<sup>2</sup>, Russell Horowitz<sup>2</sup>, Clàudia Rodés Bachs<sup>2</sup>, Thomas Nikolakakis<sup>1</sup>, Anastasios Karamaneas<sup>1</sup>, Kimon Georgiou<sup>1</sup>, Konstantinos Koasidis<sup>1</sup>, Shivika Mittal<sup>3</sup>, Charalampos Platias<sup>4</sup>, Conall Heussaff<sup>5</sup>, Christoph Bertram<sup>6,7</sup>, Alexandros Nikas<sup>1</sup>
 
 <sup>1</sup> Energy Policy Unit, School of Electrical & Computer Engineering, National Technical University of Athens, Athens, Greece <br>
