@@ -28,4 +28,4 @@ Energy sector decarbonisation, which is a prerequisite to tackling climate chang
 To reproduce the results and figures:
 1. Install R here - <https://www.r-project.org>
 2. Install R studio from here - <https://www.rstudio.com>
-3. Run each FigureX.R script in the [figure_code](https://github.com/NatasjaF/Cost_of_capital/tree/main/figure_code) folder chunk by chunk to generate the figures. All required data are available in the [figure_data folder](https://github.com/NatasjaF/Cost_of_capital/tree/main/figure_data).
+3. Run each FigureX.R script in the [figure_code](https://github.com/NatasjaF/Cost_of_capital/tree/main/figure_code) folder chunk by chunk to generate the figures. All required data are available in the [figure_data](https://github.com/NatasjaF/Cost_of_capital/tree/main/figure_data) folder.
