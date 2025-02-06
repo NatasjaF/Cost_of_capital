@@ -9,7 +9,7 @@ Natasha Frilingou<sup>1*</sup>, Dirk-Jan Van de Ven<sup>2</sup>, Jon Sampedro<su
 <sup>6</sup> Center for Global Sustainability (CGS), School of Public Policy, University of Maryland, College Park, MD, USA <br>
 <sup>7</sup> Potsdam Institute for Climate Impact Research (PIK), Member of the Leibniz Association, Potsdam, Germany
 
-* Correspondence: nfrilingou@epu.ntua.gr; anikas@epu.ntua.gr
+*Correspondence: nfrilingou@epu.ntua.gr; anikas@epu.ntua.gr
 
 # Summary
 Energy sector decarbonisation, which is a prerequisite to tackling climate change, entails major low-carbon technology investments across the globe. However, currently only a fraction of those investments is directed towards emerging and developing economies, partly due to large disparities in financing conditions and perceived investment risks. Here we explore the impacts of various plausible, expert-informed long-term trends of (de-) risking investments in clean energy versus fossil-fuel technologies on decarbonisation pathways on top of an empirical dataset of costs of capital, differentiated by technology and country. We also assess the effects of a ‘corrective justice’ policy measure of risk underwriting for low-carbon investments, whereby corporate windfall profits are taxed, and the revenues redistributed as subsidies towards higher-risk regions. Our results indicate a considerable mitigation and investment potential from better informing energy planning with realistic long-term projections of cost of capital evolution, as well as a potential underestimation of the risk entailed in bioenergy-based negative emissions technologies in energy transition scenarios for developed nations.
