@@ -1,4 +1,4 @@
-# Cost of capital
+## Cost of capital
 Natasha Frilingou<sup>1*</sup>, Dirk-Jan Van de Ven<sup>2</sup>, Jon Sampedro<sup>2</sup>, Russell Horowitz<sup>2</sup>, Clàudia Rodés Bachs<sup>2</sup>, Thomas Nikolakakis<sup>1</sup>, Anastasios Karamaneas<sup>1</sup>, Kimon Georgiou<sup>1</sup>, Konstantinos Koasidis<sup>1</sup>, Shivika Mittal<sup>3</sup>, Charalampos Platias<sup>4</sup>, Conall Heussaff<sup>5</sup>, Christoph Bertram<sup>6,7</sup>, Alexandros Nikas<sup>1,*</sup>
 
 <sup>1</sup> Energy Policy Unit, School of Electrical & Computer Engineering, National Technical University of Athens, Athens, Greece <br>
@@ -11,10 +11,10 @@ Natasha Frilingou<sup>1*</sup>, Dirk-Jan Van de Ven<sup>2</sup>, Jon Sampedro<su
 
 *Correspondence: nfrilingou@epu.ntua.gr; anikas@epu.ntua.gr
 
-# Summary
+## Summary
 Energy sector decarbonisation, which is a prerequisite to tackling climate change, entails major low-carbon technology investments across the globe. However, currently only a fraction of those investments is directed towards emerging and developing economies, partly due to large disparities in financing conditions and perceived investment risks. Here we explore the impacts of various plausible, expert-informed long-term trends of (de-) risking investments in clean energy versus fossil-fuel technologies on decarbonisation pathways on top of an empirical dataset of costs of capital, differentiated by technology and country. We also assess the effects of a ‘corrective justice’ policy measure of risk underwriting for low-carbon investments, whereby corporate windfall profits are taxed, and the revenues redistributed as subsidies towards higher-risk regions. Our results indicate a considerable mitigation and investment potential from better informing energy planning with realistic long-term projections of cost of capital evolution, as well as a potential underestimation of the risk entailed in bioenergy-based negative emissions technologies in energy transition scenarios for developed nations.
 
-# Contributing modelling software
+## Contributing modelling software
 
 | Model    | Version | Respository link |
 |----------|----------|----------|
@@ -26,11 +26,11 @@ Energy sector decarbonisation, which is a prerequisite to tackling climate chang
 |gcamdata   |  1.0    |  	https://github.com/JGCRI/gcamdata   |
 |gcamreport   |  1.0    |  https://bc3lc.github.io/gcamreport/index.html   |
 
-# Reproduce the results
+## Reproduce the results
 To reproduce the results and figures:
 1. Install R here - <https://www.r-project.org>
 2. Install R studio from here - <https://www.rstudio.com>
 3. Run each Figure_X.R script in the [figure_code](https://github.com/NatasjaF/Cost_of_capital/tree/main/figure_code) folder chunk by chunk to generate the figures. All required data are available in the [figure_data](https://github.com/NatasjaF/Cost_of_capital/tree/main/figure_data) folder.
 
-# Supplementary Dataset
+## Supplementary Dataset
 Frilingou, N. (2025). Frilingou_et_al_2025_CoC_dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14807258
