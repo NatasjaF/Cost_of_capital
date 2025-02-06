@@ -29,3 +29,6 @@ To reproduce the results and figures:
 1. Install R here - <https://www.r-project.org>
 2. Install R studio from here - <https://www.rstudio.com>
 3. Run each Figure_X.R script in the [figure_code](https://github.com/NatasjaF/Cost_of_capital/tree/main/figure_code) folder chunk by chunk to generate the figures. All required data are available in the [figure_data](https://github.com/NatasjaF/Cost_of_capital/tree/main/figure_data) folder.
+
+# Supplementary Dataset
+Frilingou, N. (2025). Frilingou_et_al_2025_CoC_dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14807258
