@@ -1,13 +1,14 @@
 ## Cost of capital
-Natasha Frilingou<sup>1*</sup>, Dirk-Jan Van de Ven<sup>2</sup>, Jon Sampedro<sup>2</sup>, Russell Horowitz<sup>2</sup>, Clàudia Rodés Bachs<sup>2</sup>, Thomas Nikolakakis<sup>1</sup>, Anastasios Karamaneas<sup>1</sup>, Kimon Georgiou<sup>1</sup>, Konstantinos Koasidis<sup>1</sup>, Shivika Mittal<sup>3</sup>, Charalampos Platias<sup>4</sup>, Conall Heussaff<sup>5</sup>, Christoph Bertram<sup>6,7</sup>, Alexandros Nikas<sup>1,*</sup>
+Natasha Frilingou<sup>1*</sup>, Dirk-Jan Van de Ven<sup>2</sup>, Jon Sampedro<sup>2,3</sup>, Russell Horowitz<sup>2</sup>, Clàudia Rodés Bachs<sup>2</sup>, Thomas Nikolakakis<sup>1</sup>, Anastasios Karamaneas<sup>1</sup>, Kimon Georgiou<sup>1</sup>, Konstantinos Koasidis<sup>1</sup>, Shivika Mittal<sup>4</sup>, Charalampos Platias<sup>5</sup>, Conall Heussaff<sup>6</sup>, Christoph Bertram<sup>7,8</sup>, Alexandros Nikas<sup>1,*</sup>
 
 <sup>1</sup> Energy Policy Unit, School of Electrical & Computer Engineering, National Technical University of Athens, Athens, Greece <br>
 <sup>2</sup> Basque Centre for Climate Change (BC3), Leioa, Spain <br>
-<sup>3</sup> CICERO Center for International Climate Research, Oslo, Norway <br>
-<sup>4</sup> Department of International, European & Area Studies, Panteion University of Social & Political Sciences, Athens, Greece <br>
-<sup>5</sup> Bruegel, Brussels, Belgium <br>
-<sup>6</sup> Center for Global Sustainability (CGS), School of Public Policy, University of Maryland, College Park, MD, USA <br>
-<sup>7</sup> Potsdam Institute for Climate Impact Research (PIK), Member of the Leibniz Association, Potsdam, Germany
+<sup>3</sup> IKERBASQUE, Basque Foundation for Science, Plaza Euskadi 5, 48009 Bilbao, Spain <br>
+<sup>4</sup> CICERO Center for International Climate Research, Oslo, Norway <br>
+<sup>5</sup> Department of International, European & Area Studies, Panteion University of Social & Political Sciences, Athens, Greece <br>
+<sup>6</sup> Bruegel, Brussels, Belgium <br>
+<sup>7</sup> Center for Global Sustainability (CGS), School of Public Policy, University of Maryland, College Park, MD, USA <br>
+<sup>8</sup> Potsdam Institute for Climate Impact Research (PIK), Member of the Leibniz Association, Potsdam, Germany
 
 *Correspondence: nfrilingou@epu.ntua.gr; anikas@epu.ntua.gr
 
