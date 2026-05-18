@@ -35,3 +35,6 @@ To reproduce the results and figures:
 
 ## Supplementary Dataset
 Frilingou, N. (2025). Frilingou_et_al_2025_CoC_dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14807258
+
+## Paper Citation
+Frilingou, N., Van de Ven, D.-J., Sampedro, J., Horowitz, R., Rodés-Bachs, C., Nikolakakis, T., Karamaneas, A., Georgiou, K., Koasidis, K., Mittal, S., Platias, C., Heussaff, C., Bertram, C., & Nikas, A. (2026). Regional impacts on decarbonisation under evolving financing conditions for energy technologies. Nature Communications, **_accepted_** <https://doi.org/10.1038/s41467-026-73522-1>
